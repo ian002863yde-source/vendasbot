@@ -1,0 +1,12 @@
+{
+  "name": "sales-bot",
+  "version": "1.0.0",
+  "description": "Bot de vendas para Discord feito em Node.js com discord.js v14",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "token": "COLOQUE_SEU_TOKEN_AQUI",
+  "guildId": "COLOQUE_O_ID_DO_SERVIDOR",
+  "salesCategoryName": "🛒 Compras",
+  "supportRoleId": "COLOQUE_O_ID_DO_CARGO_DA_EQUIPE",
+  "panelChannelId": "COLOQUE_O_ID_DO_CANAL_DO_PAINEL"
+}
